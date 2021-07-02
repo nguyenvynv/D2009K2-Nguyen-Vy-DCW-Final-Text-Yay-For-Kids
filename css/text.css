@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+/*font-family: 'Nunito', sans-serif;*/
+main h1{
+    color:#F2963C;
+    font-family: 'Nunito', sans-serif;
+    font-weight:700;
+    text-align:center;
+	margin-bottom:50px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color:white;
+    font-family: 'Nunito', sans-serif;
+    font-weight:700;
+    font-size:20px;
+}
+/*HEADER BOTTOM*/
+.intro p{
+    margin:100px 0;
+    font-family: 'Nunito', sans-serif;
+    color:#605233;
+    text-align:left;
+}
+/*SECTION 1 - BEST SELLER*/
+.box h2{
+    font-family: 'Nunito', sans-serif;
+    color:#605233;
+    font-size:18px;
+}
+/*SECTION 3 - NEWS*/
+.main-news h2{
+    color:#F2963C;
+    font-family: 'Nunito', sans-serif;
+    font-weight:700;
+	text-align:center;
+}
+.description a{
+	text-decoration: none;
+}
+.description p{
+	font-family: 'Nunito', sans-serif;
+    color:#605233;
+    font-size:14px;
+	margin-top:10px;
+}
+/*EXTRA NEWS*/
+.sub-description a{
+	text-decoration: none;
+}
+.sub-description p{
+	font-family: 'Nunito', sans-serif;
+    color:#605233;
+    font-size:14px;
+}
+.sub-description h3{
+    color:#F2963C;
+    font-family: 'Nunito', sans-serif;
+    font-weight:700;
+	margin-bottom:20px;
+}
+/*FEEDBACK*/
+.customer p{
+	font-family: 'Nunito', sans-serif;
+    color:#605233;
+    font-size:16px;
+	margin-top:10px;
+}
+.customer h2{
+    color:#F2963C;
+    font-family: 'Nunito', sans-serif;
+    font-weight:700;
+	margin-bottom:10px;
+}
+/*FOOTER*/
+footer h3{
+	color:#F2963C;
+    font-family: 'Nunito', sans-serif;
+    font-weight:700;
+}
+/*INFORMATION*/
+
+.infor ul li{
+	font-family: 'Nunito', sans-serif;
+    color:#605233;
+    font-size:16px;
+	list-style: none;
+}
+/*SERVICE*/
+.service ul li{
+	list-style: none;
+}
+.service ul li a{
+	text-decoration:none;
+	font-family: 'Nunito', sans-serif;
+    color:#605233;
+    font-size:16px;
+	list-style: none;
+}
+.service ul li a:hover{
+	font-size:18px
+}
+/*SOCIAL*/
+.social ul li{
+	list-style: none;
+}
+.social ul li a{
+	text-decoration:none;
+	font-family: 'Nunito', sans-serif;
+    color:#605233;
+    font-size:16px;
+}
+.social ul li a:hover{
+	font-size:18px
+}
+/*COPYRIGHT*/
+.copyright{
+	font-family: 'Nunito', sans-serif;
+    color:#605233;
+    font-size:16px;
+	line-height:30px;
+}
+.copyright a{
+	text-decoration:none;
+	font-weight:700;
+	color:#605233;
+}
+.copyright a:hover{
+	font-size:20px;
+}
